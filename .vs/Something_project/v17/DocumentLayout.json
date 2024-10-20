@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\unity\\something_project\\assets\\scripts\\modal\\modal02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modal\\modal02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\unity\\something_project\\assets\\scripts\\modal\\modal01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modal\\modal01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\unity\\something_project\\assets\\scripts\\modal\\modal00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modal\\modal00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\Something_project\\assets\\scripts\\page\\page02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\page\\page02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\Something_project\\assets\\scripts\\modal\\modalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modal\\modalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\Something_project\\assets\\scripts\\modal\\modalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA9A53-BD1B-1536-53B5-7FAE18D7BAA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\modal\\modalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modal02.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\Modal02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Modal\\Modal02.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\Modal02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Modal\\Modal02.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:38:22.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modal01.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\Modal01.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Modal\\Modal01.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\Modal01.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Modal\\Modal01.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:38:15.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modal00.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\Modal00.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Modal\\Modal00.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\Modal00.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Modal\\Modal00.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:32:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModalController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\ModalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Modal\\ModalController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\ModalController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Modal\\ModalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:29:40.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\ModalManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Modal\\ModalManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Modal\\ModalManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Modal\\ModalManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:24:47.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page02.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Page\\Page02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Page\\Page02.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\Something_project\\Assets\\Scripts\\Page\\Page02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Page\\Page02.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:15:49.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

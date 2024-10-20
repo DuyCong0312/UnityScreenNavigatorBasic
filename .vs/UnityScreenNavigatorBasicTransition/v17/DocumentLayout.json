@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\unity\\unityscreennavigatorbasictransition\\assets\\scripts\\sheet\\sheetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sheet\\sheetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Library\\PackageCache\\com.harumak.unityscreennavigator@ef09a36fde\\Runtime\\Core\\Sheet\\SheetContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.harumak.unityscreennavigator@ef09a36fde\\Runtime\\Core\\Sheet\\SheetContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Sheet\\SheetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Sheet\\SheetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\assets\\scripts\\nest\\nestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nest\\nestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\assets\\scripts\\nest\\nestpage01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nest\\nestpage01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\assets\\scripts\\nest\\nestpage02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nest\\nestpage02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\assets\\scripts\\nest\\nestmodal02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nest\\nestmodal02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\assets\\scripts\\nest\\nestmodal01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nest\\nestmodal01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\assets\\scripts\\page\\page01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\page\\page01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\assets\\scripts\\page\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B61A30-C0A1-CD9D-28E0-0F53CAE4DB20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\page\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NestModal02.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestModal02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nest\\NestModal02.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestModal02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nest\\NestModal02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:33:01.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NestModal01.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestModal01.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nest\\NestModal01.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestModal01.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nest\\NestModal01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:31:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NestPage02.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestPage02.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nest\\NestPage02.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestPage02.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nest\\NestPage02.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:24:07.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NestPage01.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestPage01.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nest\\NestPage01.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestPage01.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nest\\NestPage01.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:15:33.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NestManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nest\\NestManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Nest\\NestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nest\\NestManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:10:21.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page01.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Page\\Page01.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Page\\Page01.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Page\\Page01.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Page\\Page01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:15:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Page\\PageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Page\\PageManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Page\\PageManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Page\\PageManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:09:47.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SheetContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Library\\PackageCache\\com.harumak.unityscreennavigator@ef09a36fde\\Runtime\\Core\\Sheet\\SheetContainer.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.harumak.unityscreennavigator@ef09a36fde\\Runtime\\Core\\Sheet\\SheetContainer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Library\\PackageCache\\com.harumak.unityscreennavigator@ef09a36fde\\Runtime\\Core\\Sheet\\SheetContainer.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.harumak.unityscreennavigator@ef09a36fde\\Runtime\\Core\\Sheet\\SheetContainer.cs",
+              "ViewState": "AQIAALQBAAAAAAAAAAAUwM8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:33:33.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SheetController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Sheet\\SheetController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sheet\\SheetController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Sheet\\SheetController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sheet\\SheetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T07:52:53.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SheetManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Sheet\\SheetManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sheet\\SheetManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\unity\\UnityScreenNavigatorBasicTransition\\Assets\\Scripts\\Sheet\\SheetManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sheet\\SheetManager.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T07:37:07.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
